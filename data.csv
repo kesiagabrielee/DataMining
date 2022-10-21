@@ -1,0 +1,12 @@
+ID Transaksi,Tanggal,Konsumen,ID Produk,Nama Produk,Merek,Jumlah
+1,"Wednesday, July 1, 2015",Mr. A,1,Roti,Sri Roti,2.00
+1,"Wednesday, July 1, 2015",Mr. A,2,Air Minum,Aquos,1.00
+1,"Wednesday, July 1, 2015",Mr. A,11,Mie Instan,Indomi,2.00
+1,"Wednesday, July 1, 2015",Mr. A,12,Mie Instan,Mi Sedap,1.00
+2,"Wednesday, July 1, 2015",Mr. B,2,Air Minum,Aquos,1.00
+2,"Wednesday, July 1, 2015",Mr. B,6,Snack,Chiki,2.00
+2,"Wednesday, July 1, 2015",Mr. B,3,Roti,Prambanan,1.00
+2,"Wednesday, July 1, 2015",Mr. B,5,Shampoo,Clean,1.00
+3,"Thursday, July 2, 2015",Mr. C,4,Sabun,Lifboy,1.00
+3,"Thursday, July 2, 2015",Mr. C,5,Shampoo,Clean,1.00
+3,"Thursday, July 2, 2015",Mr. C,9,Rokok,Malioboro,1.00
